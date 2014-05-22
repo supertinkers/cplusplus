@@ -4,16 +4,6 @@
 #include <conio.h> //For getche()
 #include <time.h>
 using namespace std;
-/*******************************************************************************
-	* Program Name: pick up game
-	* Created Date: Dec 14 2010
-	* Created By: Shane Gilligan
-	* Purpose: to make GOTY game
-	* Acknowledgements: none
-*******************************************************************************/
-
-
-
 
 //You can modify these numbers but don't delete these constants or this starting code will not work
 const int MAX_HEIGHT = 20; //The height of the grid
